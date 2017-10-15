@@ -1,7 +1,7 @@
 # GHOST
 #### ¿QUÉ ES GHOST?
 
-Ghost Lang (o simplemente Ghost), es un lenguaje de programación para microcontroladores, cuyo nombre está inspirado en la franquicia de ciencia ficción "Ghost In The Shell". Inspirado en la capacidad de C para el trabajo con hardware, y la simplicidad de Python para el desarrollo ágil. Se trata de un lenguaje compilado, con tipo de datos estático, débilmente tipado, de nivel medio y multiparadigma (modular, imperativo y orientado a objetos). 
+Ghost Lang (o simplemente Ghost), es un lenguaje de programación para microcontroladores, cuyo nombre está inspirado en la franquicia de ciencia ficción "Ghost In The Shell". Busca imitar la capacidad del lenguaje de programación C para el trabajo con hardware y la simplicidad de Python para el desarrollo ágil. Se trata de un lenguaje compilado, con tipo de datos estático, débilmente tipado, de nivel medio y multiparadigma (modular, imperativo y orientado a objetos). 
 
 La implementación oficial de Ghost está hecha en JavaScript, pues se busca la posibilidad de ejecución en entornos de escritorio, web, servidores y dispositivos móviles.
 
