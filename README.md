@@ -49,7 +49,7 @@ El intérprete de línea de comandos de ghost (implementado con JavaScript como 
 <https://github.com/ghost-lang/logicoma>
 
 ###### MicroASM (en desarrollo)
-El ensamblador usado por Ghost, programado en JavaScript, pensado para su ejecución en múltiples entornos (web, desktop, server y mobile).
+El ensamblador usado por Ghost, programado en JavaScript, pues se busca la posibilidad de ejecución en diferentes entornos (escritorio, web, servidores y dispositivos móviles).
 
 <https://github.com/ghost-lang/microasm>
 
